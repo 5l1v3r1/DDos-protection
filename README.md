@@ -28,6 +28,6 @@ with this mod, you will import **ADP.php** in your php scripts and will check fo
 - change EXPIRE_TIME with your custom authentication timeout (in secconds)(after this time, client cookie will be burned and reauthentication needed)
 - thats it, your website is secure now :)
 
-
+### Donation : 19aXmEGbnsLwBTyDR6RCTBmSoegmNHzC9s
 ### support / suggestion = ph09nixom@gmail.com - t.me/ph09nix
 ### Leave a STAR if you found this usefull :)
